@@ -48,6 +48,22 @@ body{
 .estudante-imagem{
  width: 120px;
 }
+
 .estudante-div{
+    text-align:center;
+}
+
+.estudante-titulo{
     text-align: center;
+    padding: 50px;
+}
+ 
+.rodape{
+    background-color: #2F47A0;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 70px;
+    padding: 16px 0;
 }
