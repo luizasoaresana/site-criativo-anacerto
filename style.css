@@ -49,11 +49,17 @@ body{
  width: 120px;
 }
 
+.estudante-icone{
+    width: 24px;
+}
+
 .estudante-div{
+    background-color: #576CB7;
     text-align:center;
 }
 
 .estudante-titulo{
+    background-color: #576CB7;
     text-align: center;
     padding: 50px;
 }
